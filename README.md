@@ -96,7 +96,19 @@ UI 뼈대 만들어볼까요? 또는 axios 호출 코드부터 같이 해볼까�
 ABI 뼈대 알아보기. 전문 블로그 - > 스테이블 코인 비교 분석 차츰 해보기!.
 
 
+//// Stablecoin, 
 
+1. Tether
+2. USDC
+3. Ethena USDe
+4. DAI
+5. Sky Dollar
+6. Blackrock USD
+7. World Liberty Financial USD
+8. Ethena USDtb
+9. First Digital USD
+
+    
 
 
 
